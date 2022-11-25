@@ -263,7 +263,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5">
                         <div class="team-item position-relative">
-                            <img loading="lazy" src="images/team/team-1.jpg" alt="team" class="img-fluid w-100">
+                            <img loading="lazy" src="/template/theme/images/team/team-1.jpg" alt="team"
+                                class="img-fluid w-100">
                             <div class="team-img-hover">
                                 <ul class="team-social list-inline">
                                     <li class="list-inline-item">
@@ -295,7 +296,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5">
                         <div class="team-item position-relative">
-                            <img loading="lazy" src="images/team/team-2.jpg" alt="team" class="img-fluid w-100">
+                            <img loading="lazy" src="/template/theme/images/team/team-2.jpg" alt="team"
+                                class="img-fluid w-100">
                             <div class="team-img-hover">
                                 <ul class="team-social list-inline">
                                     <li class="list-inline-item">
@@ -327,7 +329,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5 ">
                         <div class="team-item position-relative">
-                            <img loading="lazy" src="images/team/team-3.jpg" alt="team" class="img-fluid w-100">
+                            <img loading="lazy" src="/template/theme/images/team/team-3.jpg" alt="team"
+                                class="img-fluid w-100">
                             <div class="team-img-hover">
                                 <ul class="team-social list-inline">
                                     <li class="list-inline-item">
@@ -358,7 +361,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5 mb-lg-0">
                         <div class="team-item position-relative">
-                            <img loading="lazy" src="images/team/team-4.jpg" alt="team" class="img-fluid w-100">
+                            <img loading="lazy" src="/template/theme/images/team/team-4.jpg" alt="team"
+                                class="img-fluid w-100">
                             <div class="team-img-hover">
                                 <ul class="team-social list-inline">
                                     <li class="list-inline-item">
@@ -390,7 +394,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5 mb-lg-0">
                         <div class="team-item position-relative">
-                            <img loading="lazy" src="images/team/team-6.jpg" alt="team" class="img-fluid w-100">
+                            <img loading="lazy" src="/template/theme/images/team/team-6.jpg" alt="team"
+                                class="img-fluid w-100">
                             <div class="team-img-hover">
                                 <ul class="team-social list-inline">
                                     <li class="list-inline-item">
@@ -422,7 +427,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5 mb-lg-0 ">
                         <div class="team-item position-relative">
-                            <img loading="lazy" src="images/team/team-5.jpg" alt="team" class="img-fluid w-100">
+                            <img loading="lazy" src="/template/theme/images/team/team-5.jpg" alt="team"
+                                class="img-fluid w-100">
                             <div class="team-img-hover">
                                 <ul class="team-social list-inline">
                                     <li class="list-inline-item">

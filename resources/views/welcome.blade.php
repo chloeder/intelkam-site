@@ -71,7 +71,7 @@
                 </div>
             </div>
         </div>
- 
+
         <div id="navbar">
             <div class="container">
                 <div class="row">
@@ -142,6 +142,15 @@
 
     <!-- Slider Start -->
     <section class="slider">
+        <div class="container mb-5">
+            <div class="row">
+                <div class="flex-column justify-content-center">
+                    <img src="{{ asset('/img/logo-presisi.png') }}" style="width: 100px" alt="logo">
+                    <img src="{{ asset('/img/logo-polri.png') }}" style="width: 100px" alt="logo">
+                    <img src="{{ asset('/img/logo-polda.png') }}" style="width: 100px" alt="logo">
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-9 col-md-10">
