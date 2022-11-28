@@ -145,9 +145,9 @@
         <div class="container mb-5">
             <div class="row">
                 <div class="flex-column justify-content-center">
-                    <img src="{{ asset('/img/logo-presisi.png') }}" style="width: 100px" alt="logo">
-                    <img src="{{ asset('/img/logo-polri.png') }}" style="width: 100px" alt="logo">
-                    <img src="{{ asset('/img/logo-polda.png') }}" style="width: 100px" alt="logo">
+                    <img src="{{ asset('/img/logo-presisi.png') }}" style="width: 50px" alt="logo">
+                    <img src="{{ asset('/img/logo-polri.png') }}" style="width: 50px" alt="logo">
+                    <img src="{{ asset('/img/logo-polda.png') }}" style="width: 50px" alt="logo">
                 </div>
             </div>
         </div>
@@ -395,64 +395,68 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 mb-5">
                     <div class="card bg-transparent border-0">
-                        <img loading="lazy" src="/template/theme/images/blog/1.jpg" alt="blog"
-                            class="img-fluid rounded">
+                        <img loading="lazy" src="/img/pengecekan.jpg" alt="blog" class="img-fluid rounded">
 
                         <div class="card-body mt-2">
                             <div class="blog-item-meta">
-                                <a href="#" class="text-white-50">Design<span class="ml-2 mr-2">/</span></a>
-                                <a href="#" class="text-white-50">Ui/Ux<span class="ml-2">/</span></a>
-                                <a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>admin</a>
+                                <a href="#" class="text-white-50">Berita Terkini<span
+                                        class="ml-2 mr-2">/</span></a>
+                                <a href="#" class="text-white-50">News<span class="ml-2">/</span></a>
+                                <a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>Satuan
+                                    Intelkam</a>
                             </div>
 
-                            <h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white ">How to improve design
-                                    with typography?</a></h3>
-
-                            <a href="blog-single.html"
-                                class="btn btn-small btn-solid-border btn-round-full text-white">Learn More</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 mb-5">
-                    <div class="card border-0 bg-transparent">
-                        <img loading="lazy" src="/template/theme/images/blog/2.jpg" alt="blog"
-                            class="img-fluid rounded">
-
-                        <div class="card-body mt-2">
-                            <div class="blog-item-meta">
-                                <a href="#" class="text-white-50">Design<span class="ml-2 mr-2">/</span></a>
-                                <a href="#" class="text-white-50">Ui/Ux<span class="ml-2">/</span></a>
-                                <a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>admin</a>
-                            </div>
-
-                            <h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white">Interactivity design may
-                                    connect consumer</a>
+                            <h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white ">Pengecekan di SKCK
+                                    Polres Minahasa</a>
                             </h3>
 
                             <a href="blog-single.html"
-                                class="btn btn-small btn-solid-border btn-round-full text-white">Learn More</a>
+                                class="btn btn-small btn-solid-border btn-round-full text-white">Selengkapnya...</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 mb-5">
                     <div class="card border-0 bg-transparent">
-                        <img loading="lazy" src="/template/theme/images/blog/3.jpg" alt="blog"
-                            class="img-fluid rounded">
+                        <img loading="lazy" src="/img/pengecekan2.jpg" alt="blog" class="img-fluid rounded">
 
                         <div class="card-body mt-2">
                             <div class="blog-item-meta">
-                                <a href="#" class="text-white-50">Design<span class="ml-2 mr-2">/</span></a>
-                                <a href="#" class="text-white-50">Ui/Ux<span class="ml-2">/</span></a>
-                                <a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>admin</a>
+                                <a href="#" class="text-white-50">Berita Terkini<span
+                                        class="ml-2 mr-2">/</span></a>
+                                <a href="#" class="text-white-50">News<span class="ml-2">/</span></a>
+                                <a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>Satuan
+                                    Intelkam</a>
                             </div>
 
-                            <h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white">Marketing Strategy to
-                                    bring more affect</a></h3>
+                            <h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white">Layanan SKCK Polres
+                                    Minahasa</a>
+                            </h3>
 
                             <a href="blog-single.html"
-                                class="btn btn-small btn-solid-border btn-round-full text-white">Learn More</a>
+                                class="btn btn-small btn-solid-border btn-round-full text-white">Selengkapnya...</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-5">
+                    <div class="card border-0 bg-transparent">
+                        <img loading="lazy" src="/img/pengecekan3.jpg" alt="blog" class="img-fluid rounded">
+
+                        <div class="card-body mt-2">
+                            <div class="blog-item-meta">
+                                <a href="#" class="text-white-50">Berita Terkini<span
+                                        class="ml-2 mr-2">/</span></a>
+                                <a href="#" class="text-white-50">News<span class="ml-2">/</span></a>
+                                <a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>Satuan
+                                    Intelkam</a>
+                            </div>
+
+                            <h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white">Pengecekan di SKCK
+                                    Polres Minahasa</a></h3>
+
+                            <a href="blog-single.html"
+                                class="btn btn-small btn-solid-border btn-round-full text-white">Selengkapnya...</a>
                         </div>
                     </div>
                 </div>
@@ -470,7 +474,7 @@
                             Atas.</h2>
                     </div>
                     <div class="col-lg-4">
-                        <a href="contact.html" class="btn btn-main btn-round-full float-lg-right ">Contact Us</a>
+                        <a href="/hubungi-kami" class="btn btn-main btn-round-full float-lg-right ">Contact Us</a>
                     </div>
                 </div>
             </div>

@@ -159,8 +159,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-5">
                     <div class="section-title pt-5">
-                        <span class="h6 text-color ">We are creative</span>
-                        <h2 class="mt-3">We provide best solution to client with their business problem </h2>
+                        <span class="h6 text-color ">Satuan Intelkam</span>
+                        <h2 class="mt-3">Kami memberikan solusi terbaik untuk masyarakat dengan masalah mereka</h2>
                     </div>
                 </div>
 
@@ -169,15 +169,16 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="intro-item mb-4 mb-lg-0">
                                 <i class="ti-wand text-color"></i>
-                                <h4 class="mt-4">Modern & Responsive design</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur.</p>
+                                <h4 class="mt-4">Pelayanan Cepat & Responsif</h4>
+                                <p>Pelayanan yang cepat dan responsif yang disediakan Satuan Intelkam Polres Minahasa
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <div class="intro-item mb-4 mb-lg-0">
                                 <i class="ti-medall text-color"></i>
-                                <h4 class="mt-4">Awarded licensed company</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur.</p>
+                                <h4 class="mt-4">Pelayanan Berkualitas</h4>
+                                <p>Dengan Pelayanan yang berkualitas untuk Masyarakat</p>
                             </div>
                         </div>
                     </div>

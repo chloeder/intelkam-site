@@ -161,8 +161,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-7 text-center">
                     <div class="section-title">
-                        <span class="h6 text-color">Our works</span>
-                        <h2 class="mt-3 content-title">We have done lots of works, lets check some</h2>
+                        <span class="h6 text-color">Gallery</span>
+                        <h2 class="mt-3 content-title">Kegiatan yang dilaksanakan di Satuan INTELKAM</h2>
                     </div>
                 </div>
             </div>
@@ -172,9 +172,8 @@
             <div class="row portfolio-gallery">
                 <div class="col-lg-4 col-md-6">
                     <div class="portflio-item position-relative mb-4">
-                        <a href="images/portfolio/1.jpg" class="popup-gallery">
-                            <img src="/template/theme/images/portfolio/1.jpg" alt="portfolio"
-                                class="img-fluid w-100">
+                        <a href="/img/pengecekan2.jpg" class="popup-gallery">
+                            <img src="/img/pengecekan2.jpg" alt="portfolio" class="img-fluid w-100">
 
                             <i class="ti-plus overlay-item"></i>
                             <div class="portfolio-item-content">
@@ -187,9 +186,8 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="portflio-item position-relative mb-4">
-                        <a href="images/portfolio/2.jpg" class="popup-gallery">
-                            <img src="/template/theme/images/portfolio/2.jpg" alt="portfolio"
-                                class="img-fluid w-100">
+                        <a href="/img/pengecekan3.jpg" class="popup-gallery">
+                            <img src="/img/pengecekan3.jpg" alt="portfolio" class="img-fluid w-100">
 
                             <i class="ti-plus overlay-item"></i>
                             <div class="portfolio-item-content">
@@ -202,9 +200,8 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="portflio-item position-relative mb-4">
-                        <a href="images/portfolio/3.jpg" class="popup-gallery">
-                            <img src="/template/theme/images/portfolio/3.jpg" alt="portfolio"
-                                class="img-fluid w-100">
+                        <a href="/img/pengecekan4.jpg" class="popup-gallery">
+                            <img src="/img/pengecekan4.jpg" alt="portfolio" class="img-fluid w-100">
 
                             <i class="ti-plus overlay-item"></i>
                             <div class="portfolio-item-content">
@@ -217,9 +214,8 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="portflio-item position-relative mb-4">
-                        <a href="images/portfolio/4.jpg" class="popup-gallery">
-                            <img src="/template/theme/images/portfolio/4.jpg" alt="portfolio"
-                                class="img-fluid w-100">
+                        <a href="/img/pengecekan5.jpg" class="popup-gallery">
+                            <img src="/img/pengecekan5.jpg" alt="portfolio" class="img-fluid w-100">
 
                             <i class="ti-plus overlay-item"></i>
                             <div class="portfolio-item-content">
@@ -232,9 +228,8 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="portflio-item position-relative  mb-4">
-                        <a href="images/portfolio/5.jpg" class="popup-gallery">
-                            <img src="/template/theme/images/portfolio/5.jpg" alt="portfolio"
-                                class="img-fluid w-100">
+                        <a href="/img/pengecekan6.jpg" class="popup-gallery">
+                            <img src="/img/pengecekan6.jpg" alt="portfolio" class="img-fluid w-100">
 
                             <i class="ti-plus overlay-item"></i>
                             <div class="portfolio-item-content">
@@ -247,9 +242,8 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="portflio-item position-relative mb-4">
-                        <a href="images/portfolio/6.jpg" class="popup-gallery">
-                            <img src="/template/theme/images/portfolio/6.jpg" alt="portfolio"
-                                class="img-fluid w-100">
+                        <a href="/img/pengecekan7.jpg" class="popup-gallery">
+                            <img src="/img/pengecekan7.jpg" alt="portfolio" class="img-fluid w-100">
 
                             <i class="ti-plus overlay-item"></i>
                             <div class="portfolio-item-content">

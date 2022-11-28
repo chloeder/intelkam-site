@@ -144,7 +144,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="block text-center">
-                        <h1 class="text-capitalize mb-4 text-lg">Semangat untuk Melayani, Bertindak untuk Melindungi</h1>
+                        <h1 class="text-capitalize mb-4 text-lg">Semangat untuk Melayani, Bertindak untuk Melindungi
+                        </h1>
                         <ul class="list-inline">
                             <li class="list-inline-item"><a href="/" class="text-white">Beranda</a></li>
                             <li class="list-inline-item"><span class="text-white">/</span></li>
@@ -169,8 +170,8 @@
 
                 <div class="col-lg-5 col-sm-12 ml-5">
                     <div class="contact-content pl-lg-5 mt-5 mt-lg-0">
-                        <span class="text-muted">We are Professionals</span>
-                        <h2 class="mb-5 mt-2">Don’t Hesitate to contact with us for any kind of information</h2>
+                        <span class="text-muted">Satuan Intelkam</span>
+                        <h2 class="mb-5 mt-2">Jangan Ragu untuk menghubungi kami jika ingin menanyakan informasi.</h2>
 
                         <ul class="address-block list-unstyled">
                             <li>
@@ -187,15 +188,16 @@
 
                         <ul class="social-icons list-inline mt-5">
                             <li class="list-inline-item">
-                                <a href="https://www.facebook.com/skck.resminahasa"
-                                target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/skck.resminahasa" target="_blank"
+                                    rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="https://www.instagram.com/skckresminahasa"
-                                target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/skckresminahasa" target="_blank"
+                                    rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="https://wa.me/+62895361067403" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
+                                <a href="https://wa.me/+62895361067403" target="_blank" rel="noopener noreferrer"><i
+                                        class="fab fa-whatsapp"></i></a>
                             </li>
                         </ul>
                     </div>

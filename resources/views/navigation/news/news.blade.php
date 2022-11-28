@@ -162,7 +162,8 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 mb-5">
                     <div class="blog-item">
-                        <img loading="lazy" src="images/blog/1.jpg" alt="blog" class="img-fluid rounded">
+                        <img loading="lazy" src="/template/theme/images/blog/1.jpg" alt="blog"
+                            class="img-fluid rounded">
 
                         <div class="blog-item-content bg-white p-5">
                             <div class="blog-item-meta bg-gray pt-2 pb-1 px-3">
@@ -186,7 +187,8 @@
 
                 <div class="col-lg-6 col-md-6 mb-5">
                     <div class="blog-item">
-                        <img loading="lazy" src="images/blog/2.jpg" alt="blog" class="img-fluid rounded">
+                        <img loading="lazy" src="/template/theme/images/blog/2.jpg" alt="blog"
+                            class="img-fluid rounded">
 
                         <div class="blog-item-content bg-white p-5">
                             <div class="blog-item-meta bg-gray pt-2 pb-1 px-3">
@@ -210,7 +212,8 @@
 
                 <div class="col-lg-6 col-md-6 mb-5">
                     <div class="blog-item">
-                        <img loading="lazy" src="images/blog/3.jpg" alt="blog" class="img-fluid rounded">
+                        <img loading="lazy" src="/template/theme/images/blog/3.jpg" alt="blog"
+                            class="img-fluid rounded">
 
                         <div class="blog-item-content bg-white p-5">
                             <div class="blog-item-meta bg-gray pt-2 pb-1 px-3">
@@ -234,7 +237,8 @@
                 </div>
                 <div class="col-lg-6 col-md-6 mb-5">
                     <div class="blog-item">
-                        <img loading="lazy" src="images/blog/4.jpg" alt="blog" class="img-fluid rounded">
+                        <img loading="lazy" src="/template/theme/images/blog/4.jpg" alt="blog"
+                            class="img-fluid rounded">
 
                         <div class="blog-item-content bg-white p-5">
                             <div class="blog-item-meta bg-gray pt-2 pb-1 px-3">

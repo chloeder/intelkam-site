@@ -143,7 +143,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="block text-center">
-                        <h1 class="text-capitalize mb-4 text-lg">Semangat untuk Melayani, Bertindak untuk Melindungi</h1>
+                        <h1 class="text-capitalize mb-4 text-lg">Semangat untuk Melayani, Bertindak untuk Melindungi
+                        </h1>
                         <ul class="list-inline">
                             <li class="list-inline-item"><a href="/" class="text-white">Beranda</a></li>
                             <li class="list-inline-item"><span class="text-white">/</span></li>
@@ -162,83 +163,28 @@
                 <div class="col-lg-7 text-center">
                     <div class="section-title">
                         <span class="h6 text-color">Our Services</span>
-                        <h2 class="mt-3 content-title ">We provide a wide range of creative services </h2>
+                        <h2 class="mt-3 content-title ">Semangat untuk Melayani, Bertindak untuk Melindungi</h2>
                     </div>
                 </div>
             </div>
 
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="service-item mb-5">
                         <i class="ti-desktop"></i>
-                        <h4 class="mb-3">Web development.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
+                        <h4 class="mb-3">SKCK ONLINE / OFFLINE</h4>
+                        <p>Melayani proses pembuatan SKCK secara online maupun offline</p>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="service-item mb-5">
-                        <i class="ti-layers"></i>
-                        <h4 class="mb-3">Interface Design.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="service-item mb-5">
-                        <i class="ti-bar-chart"></i>
-                        <h4 class="mb-3">Business Consulting.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="service-item mb-5">
-                        <i class="ti-vector"></i>
-                        <h4 class="mb-3">Branding.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="service-item mb-5">
-                        <i class="ti-android"></i>
-                        <h4 class="mb-3">App development.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="service-item mb-5">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="service-item mb-5 mb-lg-0">
                         <i class="ti-pencil-alt"></i>
-                        <h4 class="mb-3">Content creation.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
+                        <h4 class="mb-3">Surat Izin Keramaian</h4>
+                        <p>Melayani proses pembuatan Surat Izin Keramaian</p>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="service-item mb-5">
-                        <i class="ti-layers"></i>
-                        <h4 class="mb-3">Interface Design.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="service-item mb-5">
-                        <i class="ti-bar-chart"></i>
-                        <h4 class="mb-3">Business Consulting.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="service-item mb-5">
-                        <i class="ti-vector"></i>
-                        <h4 class="mb-3">Branding.</h4>
-                        <p>A digital agency isn't here to replace your internal team, we're here to partner</p>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
@@ -249,11 +195,11 @@
             <div class="cta-block p-5 rounded">
                 <div class="row justify-content-center align-items-center ">
                     <div class="col-lg-7 text-center text-lg-left">
-                        <span class="text-color">For Every type business</span>
-                        <h2 class="mt-2 text-white">Entrust Your Project to Our Best Team of Professionals</h2>
+                        <span class="text-color">Untuk info lebih lanjut</span>
+                        <h2 class="mt-2 text-white">Semangat untuk Melayani, Bertindak untuk Melindungi</h2>
                     </div>
                     <div class="col-lg-4 text-center text-lg-right mt-4 mt-lg-0">
-                        <a href="contact.html" class="btn btn-main btn-round-full">Contact Us</a>
+                        <a href="/hubungi-kami" class="btn btn-main btn-round-full">Contact Us</a>
                     </div>
                 </div>
             </div>

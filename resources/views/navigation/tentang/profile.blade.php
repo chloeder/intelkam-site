@@ -158,20 +158,19 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="about-item pr-3 mb-5 mb-lg-0">
-                        <span class="h6 text-color">What we are</span>
-                        <h2 class="mt-3 mb-4 position-relative content-title">We are dynamic team of creative people
+                        <span class="h6 text-color">Siapakah Kita?</span>
+                        <h2 class="mt-3 mb-4 position-relative content-title">Kami adalah Satuan Intelkam Polres
+                            Minahasa
                         </h2>
-                        <p class="mb-5">We provide consulting services in the area of IFRS and management reporting,
-                            helping companies to reach their highest level. We optimize business processes, making them
-                            easier.</p>
+                        <p class="mb-5">Siap melayani masyarakat dengan segenap hati untuk menyelesaikan
+                            permesalahan.</p>
 
-                        <a href="contact.html" class="btn btn-main btn-round-full">Get started</a>
+                        <a href="/hubungi-kami" class="btn btn-main btn-round-full">Hubungi Kami</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="about-item-img">
-                        <img loading="lazy" src="/template/theme/images/about/home-7.jpg" alt="about-image"
-                            class="img-fluid">
+                        <img loading="lazy" src="/img/jajaran.jpg" alt="about-image" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -185,23 +184,17 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="about-info-item mb-4 mb-lg-0">
-                        <h3 class="mb-3"><span class="text-color mr-2 text-md ">01.</span>Our Mission</h3>
-                        <p>llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt
-                            deleniti voluptas distinctio .</p>
+                        <h3 class="mb-3"><span class="text-color mr-2 text-md ">01.</span>Satu Misi</h3>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="about-info-item mb-4 mb-lg-0">
-                        <h3 class="mb-3"><span class="text-color mr-2 text-md">02.</span>Vission</h3>
-                        <p>llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt
-                            deleniti voluptas distinctio .</p>
+                        <h3 class="mb-3"><span class="text-color mr-2 text-md">02.</span>Satu Visi</h3>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="about-info-item mb-4 mb-lg-0">
-                        <h3 class="mb-3"><span class="text-color mr-2 text-md">03.</span>Our Approach</h3>
-                        <p>llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt
-                            deleniti voluptas distinctio .</p>
+                        <h3 class="mb-3"><span class="text-color mr-2 text-md">03.</span>Satu Pendekatan</h3>
                     </div>
                 </div>
             </div>
@@ -253,208 +246,54 @@
             <div class="row justify-content-center">
                 <div class="col-lg-7 text-center">
                     <div class="section-title">
-                        <span class="h6 text-color">Our Team</span>
-                        <h2 class="mt-3 content-title">Expert Team member to get best service</h2>
+                        <span class="h6 text-color">Tim Kami</span>
+                        <h2 class="mt-3 content-title">Satuan Polres Minahasa</h2>
                     </div>
                 </div>
             </div>
 
             <div class="row justify-content-center">
+                {{-- Kapolres --}}
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5">
-                        <div class="team-item position-relative">
-                            <img loading="lazy" src="/template/theme/images/team/team-1.jpg" alt="team"
-                                class="img-fluid w-100">
-                            <div class="team-img-hover">
-                                <ul class="team-social list-inline">
-                                    <li class="list-inline-item">
-                                        <a href="https://www.facebook.com/themefisher" class="facebook"><i
-                                                class="fab fa-facebook-f" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://twitter.com/themefisher" class="twitter"><i
-                                                class="fab fa-twitter" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://www.instagram.com/themefisher/" class="instagram"><i
-                                                class="fab fa-instagram" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://themefisher.com/" class="linkedin"><i
-                                                class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="team-item-content">
-                            <h4 class="mt-3 mb-0 text-capitalize">Justin hammer</h4>
-                            <p>Digital Marketer</p>
+
+                        <div class="team-item-content text-center">
+                            <h4 class="mt-3 mb-0 text-capitalize">AKBP Tommy Bambang</h4>
+                            <p>Kapolres Minahasa</p>
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                </div>
 
+                {{-- Wakapolres --}}
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5">
-                        <div class="team-item position-relative">
-                            <img loading="lazy" src="/template/theme/images/team/team-2.jpg" alt="team"
-                                class="img-fluid w-100">
-                            <div class="team-img-hover">
-                                <ul class="team-social list-inline">
-                                    <li class="list-inline-item">
-                                        <a href="https://www.facebook.com/themefisher" class="facebook"><i
-                                                class="fab fa-facebook-f" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://twitter.com/themefisher" class="twitter"><i
-                                                class="fab fa-twitter" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://www.instagram.com/themefisher/" class="instagram"><i
-                                                class="fab fa-instagram" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://themefisher.com/" class="linkedin"><i
-                                                class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="team-item-content">
-                            <h4 class="mt-3 mb-0 text-capitalize">Jason roy</h4>
-                            <p>UI/UX Designer</p>
+                        <div class="team-item-content text-center">
+                            <h4 class="mt-3 mb-0 text-capitalize">KOMPOL Yindar. T</h4>
+                            <p>Waka Polres Minahasa</p>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="team-item-wrap mb-5 ">
-                        <div class="team-item position-relative">
-                            <img loading="lazy" src="/template/theme/images/team/team-3.jpg" alt="team"
-                                class="img-fluid w-100">
-                            <div class="team-img-hover">
-                                <ul class="team-social list-inline">
-                                    <li class="list-inline-item">
-                                        <a href="https://www.facebook.com/themefisher" class="facebook"><i
-                                                class="fab fa-facebook-f" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://twitter.com/themefisher" class="twitter"><i
-                                                class="fab fa-twitter" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://www.instagram.com/themefisher/" class="instagram"><i
-                                                class="fab fa-instagram" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://themefisher.com/" class="linkedin"><i
-                                                class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="team-item-content">
-                            <h4 class="mt-3 mb-0 text-capitalize">Henry oswald</h4>
-                            <p>Developer</p>
-                        </div>
-                    </div>
+                </div>
+
+                {{-- Kasat Intelkam --}}
+                <div class="col-lg-4 col-md-6 col-sm-6">
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team-item-wrap mb-5 mb-lg-0">
-                        <div class="team-item position-relative">
-                            <img loading="lazy" src="/template/theme/images/team/team-4.jpg" alt="team"
-                                class="img-fluid w-100">
-                            <div class="team-img-hover">
-                                <ul class="team-social list-inline">
-                                    <li class="list-inline-item">
-                                        <a href="https://www.facebook.com/themefisher" class="facebook"><i
-                                                class="fab fa-facebook-f" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://twitter.com/themefisher" class="twitter"><i
-                                                class="fab fa-twitter" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://www.instagram.com/themefisher/" class="instagram"><i
-                                                class="fab fa-instagram" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://themefisher.com/" class="linkedin"><i
-                                                class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="team-item-content">
-                            <h4 class="mt-3 mb-0 text-capitalize">David Williams</h4>
-                            <p>Senior Marketer</p>
+                        <div class="team-item-content text-center">
+                            <h4 class="mt-3 mb-0 text-capitalize">AKP Destam Dumat</h4>
+                            <p>Kasat Intekam</p>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="team-item-wrap mb-5 mb-lg-0">
-                        <div class="team-item position-relative">
-                            <img loading="lazy" src="/template/theme/images/team/team-6.jpg" alt="team"
-                                class="img-fluid w-100">
-                            <div class="team-img-hover">
-                                <ul class="team-social list-inline">
-                                    <li class="list-inline-item">
-                                        <a href="https://www.facebook.com/themefisher" class="facebook"><i
-                                                class="fab fa-facebook-f" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://twitter.com/themefisher" class="twitter"><i
-                                                class="fab fa-twitter" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://www.instagram.com/themefisher/" class="instagram"><i
-                                                class="fab fa-instagram" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://themefisher.com/" class="linkedin"><i
-                                                class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="team-item-content">
-                            <h4 class="mt-3 mb-0 text-capitalize">Peter Odin</h4>
-                            <p>App Developer</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="team-item-wrap mb-5 mb-lg-0 ">
-                        <div class="team-item position-relative">
-                            <img loading="lazy" src="/template/theme/images/team/team-5.jpg" alt="team"
-                                class="img-fluid w-100">
-                            <div class="team-img-hover">
-                                <ul class="team-social list-inline">
-                                    <li class="list-inline-item">
-                                        <a href="https://www.facebook.com/themefisher" class="facebook"><i
-                                                class="fab fa-facebook-f" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://twitter.com/themefisher" class="twitter"><i
-                                                class="fab fa-twitter" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://www.instagram.com/themefisher/" class="instagram"><i
-                                                class="fab fa-instagram" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://themefisher.com/" class="linkedin"><i
-                                                class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="team-item-content">
-                            <h4 class="mt-3 mb-0 text-capitalize">David Spensor</h4>
-                            <p>Project Manager</p>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -466,8 +305,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-7 text-center">
                     <div class="section-title">
-                        <span class="h6 text-color">Clients testimonial</span>
-                        <h2 class="mt-3 content-title">Check what's our clients say about us</h2>
+                        <span class="h6 text-color">Semangat untuk Melayani, Bertindak untuk Melindungi</span>
+                        <h2 class="mt-3 content-title">Tanggapan masyarakat tentang Pelayanan Satuan Intelkam</h2>
                     </div>
                 </div>
             </div>
@@ -479,12 +318,12 @@
                     <i class="ti-quote-left text-color"></i>
 
                     <div class="testimonial-item-content">
-                        <p class="testimonial-text">Quam maiores perspiciatis temporibus odio reiciendis error alias
-                            debitis atque consequuntur natus iusto recusandae numquam corrupti facilis blanditiis.</p>
+                        <p class="testimonial-text">Wahh.. Sangat Cepat dan Responsif, pelayanan dari Satuan Intelkam
+                            Polres Minahasa. Terima Kasih</p>
 
                         <div class="testimonial-author">
-                            <h5 class="mb-0 text-capitalize">Thomas Johnson</h5>
-                            <p>Excutive Director,themefisher</p>
+                            <h5 class="mb-0 text-capitalize">Ungke</h5>
+                            <p>Masyarakat</p>
                         </div>
                     </div>
                 </div>
@@ -492,12 +331,11 @@
                     <i class="ti-quote-left text-color"></i>
 
                     <div class="testimonial-item-content">
-                        <p class="testimonial-text">Consectetur adipisicing elit. Quam maiores perspiciatis temporibus
-                            odio reiciendis error alias debitis atque consequuntur natus iusto recusandae .</p>
+                        <p class="testimonial-text">Terima Kasih Satuan Intelkam Polres Minahasa atas pelayanannya</p>
 
                         <div class="testimonial-author">
-                            <h5 class="mb-0 text-capitalize">Mickel hussy</h5>
-                            <p>Excutive Director,themefisher</p>
+                            <h5 class="mb-0 text-capitalize">Om Michael</h5>
+                            <p>Masyarakat</p>
                         </div>
                     </div>
                 </div>
@@ -505,12 +343,11 @@
                     <i class="ti-quote-left text-color"></i>
 
                     <div class="testimonial-item-content">
-                        <p class="testimonial-text">Quam maiores perspiciatis temporibus odio reiciendis error alias
-                            debitis atque consequuntur natus iusto recusandae numquam corrupti.</p>
+                        <p class="testimonial-text">Makasih untuk Polres Minahasa atas pelayanannya</p>
 
                         <div class="testimonial-author">
-                            <h5 class="mb-0 text-capitalize">James Watson</h5>
-                            <p>Excutive Director,themefisher</p>
+                            <h5 class="mb-0 text-capitalize">Angel</h5>
+                            <p>Mahasiswa</p>
                         </div>
                     </div>
                 </div>
@@ -518,12 +355,12 @@
                     <i class="ti-quote-left text-color"></i>
 
                     <div class="testimonial-item-content">
-                        <p class="testimonial-text">Consectetur adipisicing elit. Quam maiores perspiciatis temporibus
-                            odio reiciendis error alias debitis atque consequuntur natus iusto recusandae .</p>
+                        <p class="testimonial-text">Terima Kasih untuk pelayanannya, Mantap! Tetap Semangat Polres
+                            Minahasa.</p>
 
                         <div class="testimonial-author">
-                            <h5 class="mb-0 text-capitalize">Mickel hussy</h5>
-                            <p>Excutive Director,themefisher</p>
+                            <h5 class="mb-0 text-capitalize">Rudi</h5>
+                            <p>Dosen</p>
                         </div>
                     </div>
                 </div>
